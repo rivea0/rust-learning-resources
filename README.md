@@ -1,7 +1,6 @@
 # Rust Learning Resources
 
 ## Books & exercises
-Resources that have mostly structured or step-by-step approach.
 
 ### [_The Rust Programming Language_](https://doc.rust-lang.org/book)
 The Book.
@@ -35,8 +34,23 @@ Documentation on how to use the Rust to develop command line applications.
 ### [Rustfinity](https://www.rustfinity.com/learn/rust/getting-started)
 Interactive exercises in browser.
 
+### [Rust 101](https://rust-lang.guide/intro/index.html)
+A learning guide by Glen De Cauwsemaecker.
+
 ### [Learning Rust](https://learning-rust.github.io)
 Rust Programming Language Tutorials by Dumindu Madunuwan.
+
+### [Rust Cookbook](https://rust-lang-nursery.github.io/rust-cookbook/intro.html)
+A collection of simple examples that demonstrate good practices to accomplish common programming tasks, using the crates of the Rust ecosystem.
+
+### [Rust-101](https://www.ralfj.de/projects/rust-101/main.html)
+A small tutorial for the Rust language.
+
+### [Rust Design Patterns](https://github.com/rust-unofficial/patterns)
+A catalogue of Rust design patterns, anti-patterns and idioms.
+
+### [Effective Rust](https://www.lurklurk.org/effective-rust)
+_35 Specific Ways to Improve Your Rust Code_. Book by David Drysdale.
 
 
 ## Articles/Blog posts
@@ -46,7 +60,23 @@ Rust Programming Language Tutorials by Dumindu Madunuwan.
 
 
 ## Meta/Lists of Lists
+### [Little Book of Rust Books](https://lborb.github.io/book/title-page.html)
+A treasure-trove of Rust books.
+
+### [Rust Books](https://github.com/sger/RustBooks?tab=readme-ov-file)
+List of Rust books.
+
+### [Idiomatic Rust](https://github.com/mre/idiomatic-rust)
+A peer-reviewed collection of articles/talks/repos which teach concise, idiomatic Rust.
 
 
 ## Other
+### [Rust Language Cheat Sheet](https://cheats.rs/)
+A single-page Rust resource for people who like high information density.
+
+### [Rust Cheat Sheet](https://upsuper.github.io/rust-cheatsheet)
+A type-based Rust cheatsheet.
+
+### [Rust Flashcards](https://github.com/ad-si/Rust-Flashcards)
+Over 550 flashcards to learn Rust from first principles. Written in markdown with script to convert them to an Anki deck or PDF file.
 
