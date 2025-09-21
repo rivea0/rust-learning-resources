@@ -3,7 +3,7 @@
 ## Books & exercises
 
 ### [_The Rust Programming Language_](https://doc.rust-lang.org/book)
-The Book.
+The Book. By Steve Klabnik, Carol Nichols, and Chris Krycho, with contributions from the Rust Community.
 
 ### [Rustlings](https://rustlings.rust-lang.org)
 Small exercises to get you used to reading and writing Rust code - Recommended in parallel to reading the official Rust book 📚️
@@ -55,8 +55,29 @@ _35 Specific Ways to Improve Your Rust Code_. Book by David Drysdale.
 
 ## Articles/Blog posts
 
+### [std::mem is... interesting](https://blog.veeso.dev/blog/en/std-mem-is-interesting)
+By Christian Visintin. 2025.
+
+### [The 4 pillars of Rust's superiority](https://kerkour.com/rust-superiority)
+By Sylvain Kerkour. 2025.
+
+### [Thinking in Rust: Ownership, Access, and Memory Safety](https://cocoindex.io/blogs/rust-ownership-access)
+By George He. 2025.
+
+### [the core of rust](https://jyn.dev/the-core-of-rust)
+By Jynn Nelson. 2025.
+
+### [Can Rust prevent logic errors?](https://itsallaboutthebit.com/logic-errors-in-rust)
+By Piotr Sarnacki. 2023.
+
+### [The Power of Lifetimes](https://pling.jondgoodwin.com/post/lifetimes)
+By Jonathan Goodwin. 2019.
+
 
 ## Videos
+
+### [Idiomatic Rust in Simple Steps](https://www.youtube.com/playlist?list=PLW2L8KbM0O7aRi_Bt4YE1JuW9EdMs0ztR)
+A tutorial series to help you learn the Rust programming language.
 
 
 ## Meta/Lists of Lists
@@ -69,6 +90,9 @@ List of Rust books.
 ### [Idiomatic Rust](https://github.com/mre/idiomatic-rust)
 A peer-reviewed collection of articles/talks/repos which teach concise, idiomatic Rust.
 
+### [LearnRust](https://github.com/ImplFerris/LearnRust)
+List of resources to learn Rust - Roadmap from beginner to advanced level.
+
 
 ## Other
 ### [Rust Language Cheat Sheet](https://cheats.rs/)
@@ -80,3 +104,13 @@ A type-based Rust cheatsheet.
 ### [Rust Flashcards](https://github.com/ad-si/Rust-Flashcards)
 Over 550 flashcards to learn Rust from first principles. Written in markdown with script to convert them to an Anki deck or PDF file.
 
+### [Rust Training Slides by Ferrous Systems](https://rust-training.ferrous-systems.com/latest/slides)
+Course slides by Ferrous Systems.
+
+
+## Blogs
+
+### [Steve Klabnik](https://steveklabnik.com/writing)
+
+### [corrode.dev/blog](https://corrode.dev/blog/)
+An ongoing series of articles about idiomatic Rust and best practices. By Matthias Endler.
