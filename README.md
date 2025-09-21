@@ -1,5 +1,15 @@
 # Rust Learning Resources
 
+## Table of contents
+- [Books & exercises](#books--exercises)
+- [Articles/Blog posts](#articlesblog-posts)
+- [Other](#other)
+- [Videos](#videos)
+- [Meta/Lists of Lists](#metalists-of-lists)
+- [Blogs](#blogs)
+
+
+<a name="books-exercises"></a>
 ## Books & exercises
 
 ### [_The Rust Programming Language_](https://doc.rust-lang.org/book)
@@ -53,6 +63,7 @@ A catalogue of Rust design patterns, anti-patterns and idioms.
 _35 Specific Ways to Improve Your Rust Code_. Book by David Drysdale.
 
 
+<a name="articlesblog-posts"></a>
 ## Articles/Blog posts
 
 ### [std::mem is... interesting](https://blog.veeso.dev/blog/en/std-mem-is-interesting)
@@ -74,26 +85,7 @@ By Piotr Sarnacki. 2023.
 By Jonathan Goodwin. 2019.
 
 
-## Videos
-
-### [Idiomatic Rust in Simple Steps](https://www.youtube.com/playlist?list=PLW2L8KbM0O7aRi_Bt4YE1JuW9EdMs0ztR)
-A tutorial series to help you learn the Rust programming language.
-
-
-## Meta/Lists of Lists
-### [Little Book of Rust Books](https://lborb.github.io/book/title-page.html)
-A treasure-trove of Rust books.
-
-### [Rust Books](https://github.com/sger/RustBooks?tab=readme-ov-file)
-List of Rust books.
-
-### [Idiomatic Rust](https://github.com/mre/idiomatic-rust)
-A peer-reviewed collection of articles/talks/repos which teach concise, idiomatic Rust.
-
-### [LearnRust](https://github.com/ImplFerris/LearnRust)
-List of resources to learn Rust - Roadmap from beginner to advanced level.
-
-
+<a name="other"></a>
 ## Other
 ### [Rust Language Cheat Sheet](https://cheats.rs/)
 A single-page Rust resource for people who like high information density.
@@ -108,6 +100,29 @@ Over 550 flashcards to learn Rust from first principles. Written in markdown wit
 Course slides by Ferrous Systems.
 
 
+<a name="videos"></a>
+## Videos
+
+### [Idiomatic Rust in Simple Steps](https://www.youtube.com/playlist?list=PLW2L8KbM0O7aRi_Bt4YE1JuW9EdMs0ztR)
+A tutorial series to help you learn the Rust programming language.
+
+
+<a name="meta-lists-of-lists"></a>
+## Meta/Lists of Lists
+### [Little Book of Rust Books](https://lborb.github.io/book/title-page.html)
+A treasure-trove of Rust books.
+
+### [Rust Books](https://github.com/sger/RustBooks?tab=readme-ov-file)
+List of Rust books.
+
+### [Idiomatic Rust](https://github.com/mre/idiomatic-rust)
+A peer-reviewed collection of articles/talks/repos which teach concise, idiomatic Rust.
+
+### [LearnRust](https://github.com/ImplFerris/LearnRust)
+List of resources to learn Rust - Roadmap from beginner to advanced level.
+
+
+<a name="blogs"></a>
 ## Blogs
 
 ### [Steve Klabnik](https://steveklabnik.com/writing)
