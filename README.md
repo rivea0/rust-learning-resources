@@ -5,6 +5,7 @@
 - [Articles/Blog posts](#articlesblog-posts)
 - [Other](#other)
 - [Videos](#videos)
+- [Podcasts](#podcasts)
 - [Meta/Lists of Lists](#metalists-of-lists)
 - [Blogs](#blogs)
 
@@ -110,6 +111,16 @@ Course slides by Ferrous Systems.
 
 ### [Idiomatic Rust in Simple Steps](https://www.youtube.com/playlist?list=PLW2L8KbM0O7aRi_Bt4YE1JuW9EdMs0ztR)
 A tutorial series to help you learn the Rust programming language.
+
+
+<a name="podcasts"></a>
+## Podcasts
+
+### [Rustacean Station](https://rustacean-station.org)
+A community project for creating podcast content for the Rust programming language.
+
+### [Self-Directed Research](https://sdr-podcast.com)
+Presentations on Rust development and experimentation, web and desktop programming, and embedded systems, hosted by Amos Wenger and James Munns.
 
 
 <a name="meta-lists-of-lists"></a>
