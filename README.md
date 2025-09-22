@@ -13,7 +13,9 @@
 ## Books & exercises
 
 ### [_The Rust Programming Language_](https://doc.rust-lang.org/book)
-The Book. By Steve Klabnik, Carol Nichols, and Chris Krycho, with contributions from the Rust Community.
+The Book.
+
+By Steve Klabnik, Carol Nichols, and Chris Krycho, with contributions from the Rust Community.
 
 ### [Rustlings](https://rustlings.rust-lang.org)
 Small exercises to get you used to reading and writing Rust code - Recommended in parallel to reading the official Rust book 📚️
@@ -96,6 +98,9 @@ A type-based Rust cheatsheet.
 ### [Rust Flashcards](https://github.com/ad-si/Rust-Flashcards)
 Over 550 flashcards to learn Rust from first principles. Written in markdown with script to convert them to an Anki deck or PDF file.
 
+### [This Week in Rust](https://this-week-in-rust.org)
+Email newsletter on events, learning resources, and recent developments in the Rust community.
+
 ### [Rust Training Slides by Ferrous Systems](https://rust-training.ferrous-systems.com/latest/slides)
 Course slides by Ferrous Systems.
 
@@ -124,6 +129,9 @@ List of resources to learn Rust - Roadmap from beginner to advanced level.
 
 <a name="blogs"></a>
 ## Blogs
+
+### [The main Rust blog](https://blog.rust-lang.org)
+Major developments in the world of Rust.
 
 ### [Steve Klabnik](https://steveklabnik.com/writing)
 
