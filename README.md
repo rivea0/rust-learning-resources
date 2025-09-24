@@ -65,6 +65,28 @@ A catalogue of Rust design patterns, anti-patterns and idioms.
 ### [Effective Rust](https://www.lurklurk.org/effective-rust)
 _35 Specific Ways to Improve Your Rust Code_. Book by David Drysdale.
 
+### [Writing Interpreters in Rust: a Guide](https://rust-hosted-langs.github.io/book)
+The basics of interpreted language implementation in Rust.
+
+### [The Rust Performance Book](https://nnethercote.github.io/perf-book)
+A book containing techniques that can improve the performance-related characteristics of Rust programs, such as runtime speed, memory usage, and binary size.
+
+### [The Cargo Book](https://doc.rust-lang.org/cargo)
+_The Book_ for the Rust package manager.
+
+### [The rustup book](https://rust-lang.github.io/rustup)
+_The Book_ for the Rust toolchain installer.
+
+### [The Rust Reference](https://doc.rust-lang.org/reference)
+Reference for the Rust programming language.
+
+### [Rust and WebAssembly](https://rustwasm.github.io/docs/book)
+A book describing how to use Rust and WebAssembly together.
+> No longer maintained
+
+### [The Little Book of Rust Macros](https://lukaswirth.dev/tlborm)
+An attempt to distill the Rust community's collective knowledge of Rust macros.
+
 
 <a name="articlesblog-posts"></a>
 ## Articles/Blog posts
