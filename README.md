@@ -77,6 +77,9 @@ _The Book_ for the Rust package manager.
 ### [The rustup book](https://rust-lang.github.io/rustup)
 _The Book_ for the Rust toolchain installer.
 
+### [The rustc book](https://doc.rust-lang.org/rustc)
+_The Book_ for the Rust compiler.
+
 ### [The Rust Reference](https://doc.rust-lang.org/reference)
 Reference for the Rust programming language.
 
