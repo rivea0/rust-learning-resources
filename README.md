@@ -130,6 +130,9 @@ Email newsletter on events, learning resources, and recent developments in the R
 ### [Rust Training Slides by Ferrous Systems](https://rust-training.ferrous-systems.com/latest/slides)
 Course slides by Ferrous Systems.
 
+### [Rust procedural macros workshop](https://github.com/dtolnay/proc-macro-workshop)
+A selection of projects designed to learn to write Rust procedural macros. (Rust Latam conference, Montevideo Uruguay, March 2019)
+
 
 <a name="videos"></a>
 ## Videos
