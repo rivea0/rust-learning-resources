@@ -112,6 +112,9 @@ By Piotr Sarnacki. 2023.
 ### [The Power of Lifetimes](https://pling.jondgoodwin.com/post/lifetimes)
 By Jonathan Goodwin. 2019.
 
+### [Patterns Are Not Expressions](https://h2co3.github.io/pattern)
+By Árpád Goretity.
+
 
 <a name="other"></a>
 ## Other
