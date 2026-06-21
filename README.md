@@ -2,7 +2,6 @@
 
 ## Table of contents
 - [Books & exercises](#books--exercises)
-- [Articles/Blog posts](#articlesblog-posts)
 - [Other](#other)
 - [Videos](#videos)
 - [Podcasts](#podcasts)
@@ -43,9 +42,6 @@ A series teaching basic and advanced Rust programming entirely by having you imp
 
 ### [Command Line Applications in Rust](https://rust-cli.github.io/book/index.html)
 Documentation on how to use the Rust to develop command line applications.
-
-### [Rustfinity](https://www.rustfinity.com/learn/rust/getting-started)
-Interactive exercises in browser.
 
 ### [Rust 101](https://rust-lang.guide/intro/index.html)
 A learning guide by Glen De Cauwsemaecker.
@@ -90,32 +86,6 @@ A book describing how to use Rust and WebAssembly together.
 ### [The Little Book of Rust Macros](https://lukaswirth.dev/tlborm)
 An attempt to distill the Rust community's collective knowledge of Rust macros.
 
-
-<a name="articlesblog-posts"></a>
-## Articles/Blog posts
-
-### [std::mem is... interesting](https://blog.veeso.dev/blog/en/std-mem-is-interesting)
-By Christian Visintin. 2025.
-
-### [The 4 pillars of Rust's superiority](https://kerkour.com/rust-superiority)
-By Sylvain Kerkour. 2025.
-
-### [Thinking in Rust: Ownership, Access, and Memory Safety](https://cocoindex.io/blogs/rust-ownership-access)
-By George He. 2025.
-
-### [the core of rust](https://jyn.dev/the-core-of-rust)
-By Jynn Nelson. 2025.
-
-### [Can Rust prevent logic errors?](https://itsallaboutthebit.com/logic-errors-in-rust)
-By Piotr Sarnacki. 2023.
-
-### [The Power of Lifetimes](https://pling.jondgoodwin.com/post/lifetimes)
-By Jonathan Goodwin. 2019.
-
-### [Patterns Are Not Expressions](https://h2co3.github.io/pattern)
-By Árpád Goretity.
-
-
 <a name="other"></a>
 ## Other
 ### [Rust Language Cheat Sheet](https://cheats.rs/)
@@ -143,6 +113,8 @@ A selection of projects designed to learn to write Rust procedural macros. (Rust
 ### [Idiomatic Rust in Simple Steps](https://www.youtube.com/playlist?list=PLW2L8KbM0O7aRi_Bt4YE1JuW9EdMs0ztR)
 A tutorial series to help you learn the Rust programming language.
 
+### [RustCurious](https://www.youtube.com/@RustCurious)
+Rust explained carefully.
 
 <a name="podcasts"></a>
 ## Podcasts
@@ -179,3 +151,10 @@ Major developments in the world of Rust.
 
 ### [corrode.dev/blog](https://corrode.dev/blog/)
 An ongoing series of articles about idiomatic Rust and best practices. By Matthias Endler.
+
+### [matklad.github.io](https://matklad.github.io/)
+
+### [Rust Trends](https://rust-trends.com/)
+Newsletter and resource for Rust programming trends, tutorials, and ecosystem updates.
+
+### [The "Inside Rust" Blog](https://blog.rust-lang.org/inside-rust/)
